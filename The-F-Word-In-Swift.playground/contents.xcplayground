@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='osx' requires-full-environment='true' display-mode='raw'>
+<playground version='6.0' target-platform='osx' requires-full-environment='true' display-mode='rendered'>
     <pages>
-        <page name='Optional-Type'/>
+        <page name='Intro'/>
         <page name='if-let'/>
+        <page name='Nasty-if-let'/>
+        <page name='Optional-Type'/>
+        <page name='Maybe'/>
+        <page name='map'/>
+        <page name='Functor'/>
+        <page name='Less-Nasty-if-let'/>
+        <page name='flatmap'/>
+        <page name='Monad'/>
+        <page name='Better-if-let'/>
+        <page name='Thanks'/>
+        <page name='guard-else'/>
+        <page name='Untitled Page 4'/>
+        <page name='todo'/>
+        <page name='Forgetting-Optionals'/>
+        <page name='fmap'/>
+        <page name='fmap-infix'/>
+        <page name='Other-fmappadle-Types'/>
+        <page name='flatten'/>
+        <page name='p'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>

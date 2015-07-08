@@ -1,0 +1,5 @@
+//: [Previous](@previous)
+//:
+//: ## Thanks 👋
+//:
+//: @mokagio
